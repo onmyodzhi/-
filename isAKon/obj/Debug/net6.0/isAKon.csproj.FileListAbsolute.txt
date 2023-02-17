@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\kon\isAKon\bin\Debug\net6.0\isAKon.exe
+C:\Users\Alexander\Desktop\kon\isAKon\bin\Debug\net6.0\isAKon.deps.json
+C:\Users\Alexander\Desktop\kon\isAKon\bin\Debug\net6.0\isAKon.runtimeconfig.json
+C:\Users\Alexander\Desktop\kon\isAKon\bin\Debug\net6.0\isAKon.dll
+C:\Users\Alexander\Desktop\kon\isAKon\bin\Debug\net6.0\isAKon.pdb
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.dll
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\refint\isAKon.dll
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.pdb
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\isAKon.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\kon\isAKon\obj\Debug\net6.0\ref\isAKon.dll
